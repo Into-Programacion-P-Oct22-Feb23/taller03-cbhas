@@ -16,14 +16,13 @@ public class Ejercicio05 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
         // Resolución del problema
         int var1 = 2;
         int var2 = 12;
         int var3 = 1;
         int var4 = 3;
-                       
-        System.out.println((Math.pow(2,2) + 12 - 1) / 3); 
+
+        System.out.println((Math.pow(var1, 2) + var2 - var3) / var4);
     }
-    
+
 }

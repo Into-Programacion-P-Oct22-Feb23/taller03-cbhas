@@ -16,14 +16,12 @@ public class Ejercicio04 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-
+        
         // Resolución del problema
         int var1 = 20;
         int var2 = 1;
         int var3 = 3;
         int var4 = 2;
-        int var5 = 3;
-
-        System.out.println(20 / (1 + 3) + 2 >= 3);
+        System.out.println(var1 / (var2 + var3) + var4 >= var3);
     }
 }

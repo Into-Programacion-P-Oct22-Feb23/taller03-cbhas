@@ -16,15 +16,14 @@ public class Ejercicio08 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    
-    // Resolución del problema
+        // Resolución del problema
         int var1 = 10;
         int var2 = 9;
         int var3 = 20;
         int var4 = 500;
         int var5 = 2;
-                       
-        System.out.println( (Math.sqrt(81) + 9 / 3 == 9) && (10 > 1) );
+
+        System.out.println((Math.sqrt(81) + 9 / 3 == 9) && (10 > 1));
     }
-    
+
 }

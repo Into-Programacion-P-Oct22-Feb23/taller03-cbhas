@@ -16,15 +16,14 @@ public class Ejercicio03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
         // Resolución del problema
         int var1 = 10;
         int var2 = 16;
         int var3 = 20;
         int var4 = 1;
         int var5 = 11;
-                       
-        System.out.println(Math.pow(10,2) + Math.sqrt(16) + 20 / (1 +11));    
+
+        System.out.println(Math.pow(var1, 2) + Math.sqrt(var2) + var3 / (var4 + var5));
     }
-    
+
 }
