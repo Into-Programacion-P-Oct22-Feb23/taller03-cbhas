@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicio03;
+package ejercicio05;
 
 /**
  *
- * @author reroes
+ * @author UTPL
  */
-public class Ejercicio03 {
+public class Ejercicio05 {
 
     /**
      * @param args the command line arguments
@@ -18,13 +18,12 @@ public class Ejercicio03 {
         // TODO code application logic here
         
         // Resolución del problema
-        int var1 = 10;
-        int var2 = 16;
-        int var3 = 20;
-        int var4 = 1;
-        int var5 = 11;
+        int var1 = 2;
+        int var2 = 12;
+        int var3 = 1;
+        int var4 = 3;
                        
-        System.out.println(Math.pow(10,2) + Math.sqrt(16) + 20 / (1 +11));    
+        System.out.println((Math.pow(2,2) + 12 - 1) / 3); 
     }
     
 }
